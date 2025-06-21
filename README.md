@@ -29,6 +29,7 @@ git init
 ```powershell
 pip install streamlit
 pip install dotenv
+pip install openai
 ```
 
 9. requirements.txt 파일을 만든다.
